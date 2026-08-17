@@ -44,7 +44,7 @@ Kỹ sư và nhà nghiên cứu nhiệt huyết với mục tiêu kết nối c�
 
 ### 🎓 Học Vấn & Bằng Cấp
 
-- 🎓 **Kỹ Sư Công Nghệ Thông Tin / AI & Robotics** (2021 — 2025)
+- 🎓 **Kỹ Sư IoT và Trí tuệ nhân tạo ứng dụng ** (2022 — 2027)
 - 📜 **Chuyên sâu về Deep Learning**: Mạng thần kinh CNN, GRU RNN, CRNN Self-Attention & Vision Transformer.
 - 📜 **Chuyên sâu về Hệ Thống Nhúng**: Vi điều khiển ARM Cortex-M, Raspberry Pi Pico W, ROS 2 Jazzy & Gazebo Harmonic.
 
