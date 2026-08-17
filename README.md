@@ -20,6 +20,7 @@
 
 Kỹ sư và nhà nghiên cứu nhiệt huyết với mục tiêu kết nối các mô hình AI tiên tiến với các hệ thống phần cứng và robot thực tế.
 
+- 🌐 **Website cá nhân**: [phanhuynh.id.vn](https://phanhuynh.id.vn/)
 - 🔭 **Lĩnh vực nghiên cứu**: Học máy (Machine Learning), Thị giác máy tính thời gian thực (Real-Time Computer Vision), Robot tự hành (Autonomous Robotics) và AI trên thiết bị biên (Edge AI).
 - ⚡ **Thế mạnh cốt lõi**:
   - Mô hình Mạng thần kinh sâu (CNN, CRNN, ResNet, FaceNet, Transformer).
@@ -95,10 +96,11 @@ Kỹ sư và nhà nghiên cứu nhiệt huyết với mục tiêu kết nối c�
 ### 🌐 Liên Hệ & Mạng Xã Hội
 
 <p align="left">
-  <a href="https://github.com/minhtenlado"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/minhtenlado" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://phanhuynh.id.vn/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/v%C4%83n-%C4%91%C3%B4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/04.invisible.IT" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="mailto:phanhuynhvando@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
 ---
