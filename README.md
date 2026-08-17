@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Capsule Render Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Phan%20Hu%E1%BB%B3nh%20V%C4%83n%20%C4%90%C3%B4&fontSize=42&animation=fadeIn&fontAlignY=38&desc=H%E1%BB%8Dc%20m%C3%A1y%20%E2%80%A2%20Th%E1%BB%8B%20gi%C3%A1c%20m%C3%A1y%20t%C3%ADnh%20%E2%80%A2%20Robot%20t%E1%BB%B1%20h%C3%A0nh&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Phan%20Hu%E1%BB%B3nh%20V%C4%83n%20%C4%90%C3%B4&fontSize=42&animation=fadeIn&fontAlignY=38&desc=H%E1%BB%8Dc%20m%C3%A1y%20%E2%80%A2%20Th%E1%BB%8B%20gi%C3%A1c%20m%C3%A1y%20t%C3%ADnh%20%E2%80%A2%20Robot%20t%E1%BB%B1%20h%C3%A0nh%20%E2%80%A2%20L%E1%BA%ADp%20tr%C3%ACnh%20nh%C3%BAng&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/minhtenlado">
