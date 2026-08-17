@@ -31,9 +31,36 @@ Kỹ sư và nhà nghiên cứu nhiệt huyết với mục tiêu kết nối c�
 
 ---
 
-### 🛠️ Ngôn Ngữ & Công Cụ Tiêu Biểu
+### 👔 Kinh Nghiệm
 
-<p align="center">
+| Vị Trí | Đơn Vị / Dự Án | Lĩnh Vực | Thời Gian |
+| :--- | :--- | :--- | :--- |
+| **Trưởng Nhóm / AI & Robotics Engineer** | Dự Án Robot Tự Hành & Edge AI | Thuật Toán Di Truyền GA, ROS 2 & Gazebo | 2024 — Hiện tại |
+| **Kỹ Sư Lập Trình Nhúng & C++** | Hệ Thống Vi Điều Khiển Micromouse | Firmware Pico W, ToF Sensors & PID | 2023 — 2024 |
+| **Nghiên Cứu Viên AI / Computer Vision** | Thị Giác Máy Tính & OCR | Deep Learning, PyTorch, FaceNet & CRNN | 2022 — 2023 |
+
+---
+
+### 🎓 Học Vấn & Bằng Cấp
+
+- 🎓 **Kỹ Sư Công Nghệ Thông Tin / AI & Robotics** (2021 — 2025)
+- 📜 **Chuyên sâu về Deep Learning**: Mạng thần kinh CNN, GRU RNN, CRNN Self-Attention & Vision Transformer.
+- 📜 **Chuyên sâu về Hệ Thống Nhúng**: Vi điều khiển ARM Cortex-M, Raspberry Pi Pico W, ROS 2 Jazzy & Gazebo Harmonic.
+
+---
+
+### 📝 Bài Viết & Dự Án Đóng Góp
+
+- 📌 **[Huấn luyện Robot Mecanum 4 bánh bằng Giải thuật Di truyền (GA) trên ROS 2 Jazzy & Gazebo](https://github.com/minhtenlado/training_ga)**
+- 📌 **[Giải Thuật Rút Gọn Đường Đi LSRB & Bám Tường PID Cho Robot Micromouse](https://github.com/minhtenlado/robot_2026)**
+- 📌 **[Xây Dựng Pipeline OCR Biên Tính Toán Trực Tiếp Trên Raspberry Pi & Firebase](https://github.com/minhtenlado/EDGE_NODE)**
+- 📌 **[Nhận Diện Khuôn Mặt Realtime Bằng FaceNet Vector Embedding & Phân Loại KNN](https://github.com/minhtenlado/face_recognition)**
+
+---
+
+### 🛠️ Công Nghệ Sử Dụng
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
@@ -45,6 +72,9 @@ Kỹ sư và nhà nghiên cứu nhiệt huyết với mục tiêu kết nối c�
   <img src="https://img.shields.io/badge/PlatformIO-F6821F?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
@@ -59,6 +89,17 @@ Kỹ sư và nhà nghiên cứu nhiệt huyết với mục tiêu kết nối c�
 | **[robot_2026](https://github.com/minhtenlado/robot_2026)** | Robot Micromouse tự hành tốc độ cao trên Raspberry Pi Pico W sử dụng thuật toán đơn giản hóa đường đi LSRB, Odometry encoder và cảm biến ToF. | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-F6821F?style=flat-square&logo=platformio&logoColor=white) ![Pico W](https://img.shields.io/badge/Pico%20W-D10F5A?style=flat-square&logo=raspberrypi&logoColor=white) | [![Repo](https://img.shields.io/badge/Repo-robot__2026-blue?style=flat-square&logo=github)](https://github.com/minhtenlado/robot_2026) |
 | **[train_ocr](https://github.com/minhtenlado/train_ocr)** | Hệ thống nhận dạng chữ quang học (OCR) chuyên sâu dựa trên kiến trúc CRNN cải tiến với cơ chế Self-Attention và BiLSTM. | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![CRNN](https://img.shields.io/badge/CRNN-Self--Attention-00599C?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | [![Repo](https://img.shields.io/badge/Repo-train__ocr-blue?style=flat-square&logo=github)](https://github.com/minhtenlado/train_ocr) |
 | **[training_ga](https://github.com/minhtenlado/training_ga)** | Giải thuật tiến hóa thần kinh song song (GA + GRU RNN) điều khiển robot Mecanum tự hành trong môi trường Gazebo Harmonic không dùng GPS. | ![ROS 2](https://img.shields.io/badge/ROS%202-Jazzy-22314E?style=flat-square&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-Harmonic-FF6F00?style=flat-square&logo=gazebo&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | [![Repo](https://img.shields.io/badge/Repo-training__ga-blue?style=flat-square&logo=github)](https://github.com/minhtenlado/training_ga) |
+
+---
+
+### 🌐 Liên Hệ & Mạng Xã Hội
+
+<p align="left">
+  <a href="https://github.com/minhtenlado"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:phanhuynhvando@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 
 ---
 
